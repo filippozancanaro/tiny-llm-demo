@@ -1,0 +1,5 @@
+torch>=2.0
+pytest>=7.0
+# Non usato direttamente dal codice: senza numpy, torch stampa un warning
+# ad ogni esecuzione.
+numpy>=1.24
