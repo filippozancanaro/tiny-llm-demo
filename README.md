@@ -1,6 +1,6 @@
 # Tiny LLM Demo
 
-Progetto demo del talk *"Come funziona davvero un LLM"*.
+Progetto demo del talk a tema *"neural networks"*.
 Un mini-modello di *text completion* in PyTorch: tokenizzazione → embedding →
 training → inferenza, sullo stesso principio (semplificato) di un vero LLM.
 
