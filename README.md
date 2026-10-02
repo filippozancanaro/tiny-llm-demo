@@ -1,4 +1,4 @@
-# Tiny LLM Demo — Cheatsheet
+# Tiny LLM Demo
 
 Progetto demo del talk *"Come funziona davvero un LLM"*.
 Un mini-modello di *text completion* in PyTorch: tokenizzazione → embedding →
